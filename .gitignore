@@ -1,0 +1,7 @@
+# -*- mode: gitignore; -*-
+
+.idea
+*.pyc
+*.lock
+coordinate.txt
+images/*
